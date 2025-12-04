@@ -1,0 +1,2 @@
+# misclic.space
+Static website 
