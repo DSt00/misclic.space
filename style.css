@@ -34,6 +34,7 @@ header{
 
 .usefull-links {
     background-color: #1a1a2e;
+    width: 100vw;
     color: white;
     height: 120px;
 }
@@ -166,6 +167,7 @@ header{
     display: flex;
     flex-direction: column;
     justify-content: center;
+    width: 100vw;
     align-items: center;
     background-color: #1a1a2e;
     margin: auto;
@@ -242,6 +244,7 @@ header{
 footer {
     display: flex;
     flex-direction: column;
+    width: 100vw;
     justify-content: center;
     align-items: center;
     gap:15px;
